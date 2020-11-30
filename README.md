@@ -1,6 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-![Tomaztk github stats](https://github-readme-stats.vercel.app/api?username=tomaztk)]
+![Tomaztk github stats](https://github-readme-stats.vercel.app/api?username=tomaztk)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaztk&langs_count=8)
 
 <!--
 **tomaztk/tomaztk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
