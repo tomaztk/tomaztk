@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stay in touch
+
+[<img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" style="margin: 12px;"/>](https://tomaztsql.wordpress.com/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  style="margin: 12px;"/>](https://www.linkedin.com/in/tomaztsql)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  style="margin: 12px;"/>](mailto:tomaztsql@gmail.com)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" style="margin: 12px;" />](https://twitter.com/tomaz_tsql)
+[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="margin: 12px;" />](https://github.com/tomaztk)
