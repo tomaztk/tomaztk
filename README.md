@@ -19,6 +19,11 @@
 
 
 ![Tomaztk github stats](https://github-readme-stats.vercel.app/api?username=tomaztk) 
+
+
+<br />
+
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaztk&layout=compact) -->
 
 <!--
@@ -46,9 +51,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="margin: 12px;" />](https://github.com/tomaztk)
 
 
-<br/>
 
-If you like what I do, maybe consider buying me a espresso 😄
+<br />
+<br />
+
+You like the code and the projects. Exchange a like and thumbs up for Italian espresso 😄
+<br />
 
 <a href="https://www.buymeacoffee.com/tomazkastrun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
