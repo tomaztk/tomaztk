@@ -1,8 +1,10 @@
 <!-- ### Hi there 👋 -->
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br />
+<br />
 <a href="https://twitter.com/tomaz_tsql">
   <img align="left" alt="Tomaz Kastrun | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
