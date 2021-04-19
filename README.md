@@ -16,16 +16,8 @@
   <img align="left" alt="Tomaz's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=tomaztk.tomaztk)
 
 <br />
-
-
-![Tomaztk github stats](https://github-readme-stats.vercel.app/api?username=tomaztk) 
-
-
-<br />
-
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaztk&layout=compact) -->
 
@@ -63,3 +55,5 @@ You like the code and the projects. Exchange a like and thumbs up for Italian es
 
 <a href="https://www.buymeacoffee.com/tomazkastrun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=tomaztk.tomaztk)
