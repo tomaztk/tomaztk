@@ -14,8 +14,8 @@
 </a>
 <a href="https://open.spotify.com/user/">
   <img align="left" alt="Tomaz's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
--->
+</a> -->
+
 ![](https://visitor-badge.glitch.me/badge?page_id=tomaztk.tomaztk)
 
 <br />
