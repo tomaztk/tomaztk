@@ -5,6 +5,7 @@
 
 <br />
 <br />
+<!--
 <a href="https://twitter.com/tomaz_tsql">
   <img align="left" alt="Tomaz Kastrun | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,7 +15,7 @@
 <a href="https://open.spotify.com/user/">
   <img align="left" alt="Tomaz's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+-->
 ![](https://visitor-badge.glitch.me/badge?page_id=tomaztk.tomaztk)
 
 <br />
