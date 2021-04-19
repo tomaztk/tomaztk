@@ -56,5 +56,4 @@ You like the code and the projects. Exchange a like and thumbs up for Italian es
 
 <a href="https://www.buymeacoffee.com/tomazkastrun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=tomaztk.tomaztk)
