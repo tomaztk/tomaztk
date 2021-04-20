@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-You like the code and the projects. Exchange a like and thumbs up for Italian espresso 😄
+Exchange a like and thumbs up for an Italian espresso 😄
 <br />
 
 <a href="https://www.buymeacoffee.com/tomazkastrun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
