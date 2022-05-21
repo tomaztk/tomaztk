@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  style="margin: 12px;"/>](mailto:tomaztsql@gmail.com)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" style="margin: 12px;" />](https://twitter.com/tomaz_tsql)
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="margin: 12px;" />](https://github.com/tomaztk)
-
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" style="margin: 12px;" />](https://medium.com/@tomazkastrun)
 
 
 <br />
