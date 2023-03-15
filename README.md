@@ -16,9 +16,9 @@
   <img align="left" alt="Tomaz's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
 
-
+<!--
 ![Tomaztk github stats](https://github-readme-stats.vercel.app/api?username=tomaztk) 
-
+-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaztk&layout=compact) -->
 
